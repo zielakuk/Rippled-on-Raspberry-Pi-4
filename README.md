@@ -11,6 +11,7 @@ Download rasberry imager:
 https://downloads.raspberrypi.org/imager/imager_latest.exe
 ```
 
+
 z poziomu imaginer
 wybierz system > use custom > lokalizacja sciagnietego obrazu>Write
 
