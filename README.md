@@ -1,9 +1,15 @@
-sciagamy obraz ubuntu mate 
+Download ubuntu mate image for RasberryPi 4: 
 
+```
 https://releases.ubuntu-mate.org/focal/arm64/ubuntu-mate-20.04.1-desktop-arm64+raspi.img.xz
+```
 
-sciagamy imaginera 
+
+Download rasberry imager:
+
+```
 https://downloads.raspberrypi.org/imager/imager_latest.exe
+```
 
 z poziomu imaginer
 wybierz system > use custom > lokalizacja sciagnietego obrazu>Write
