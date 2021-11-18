@@ -67,9 +67,12 @@ cd boost_1_75_0
 
 ```
 ./b2 -j 4
-```
+``
+
+
+
 make sure you enter your own "user_name" ; for example: export BOOST_ROOT=/home/"FCX"/boost_1_75_0 
----
+
 ```
 export BOOST_ROOT=/home/"user_name"/boost_1_75_0
 ```
