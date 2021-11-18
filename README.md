@@ -110,4 +110,18 @@ It will take a while , raspberry can be unstable and slow for long time. Go for 
  - There may be a time when it seems that rasberry is not responding. Don't panic, just leave it running.
 
 
+ Configure rippled
+ ===           
+ 
+ 
+``` 
+mkdir -p ~/.config/ripple
+cp cfg/rippled-example.cfg ~/.config/ripple/rippled.cfg
+```
+
+
+```
+cp cfg/validators-example.txt ~/.config/ripple/validators.txt
+```
+
 
