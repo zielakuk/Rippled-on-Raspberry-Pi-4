@@ -30,7 +30,7 @@ Now you have your Ubuntu SD card. Before going on, make sure your Pi is off and 
 Turn on the Rasberry and Follow the instruction to finalize installation.
 
 
-Open up the Terminal 
+Open a Terminal
 ==
 
 
