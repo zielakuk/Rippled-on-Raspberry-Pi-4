@@ -1,9 +1,9 @@
 
 
 Rippled on Rasberry Pi 4
----
 
---
+
+
 Download ubuntu mate image for RasberryPi 4: 
 
 ```
@@ -25,12 +25,12 @@ Choose OS > Use Custom > ubuntu-mate-20.04.1-desktop-arm64+raspi.img.xz > Write
 
 Now you have your Ubuntu SD card. Before going on, make sure your Pi is off and insert this SD card. This is what the Pi uses to load all the software you’re about to use. 
 
-###
+
 Turn on the Rasberry and Follow the instruction to finalize installation.
-###
+
 
 Open up the Terminal 
-----
+
 
 
 ```
@@ -68,8 +68,6 @@ cd boost_1_75_0
 ```
 ./b2 -j 4
 ``
-
-
 
 make sure you enter your own "user_name" ; for example: export BOOST_ROOT=/home/"FCX"/boost_1_75_0 
 
