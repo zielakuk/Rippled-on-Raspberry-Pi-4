@@ -12,8 +12,8 @@ https://downloads.raspberrypi.org/imager/imager_latest.exe
 ```
 
 
-z poziomu imaginer
-wybierz system > use custom > lokalizacja sciagnietego obrazu>Write
+Rasberry Imager
+Choose OS > use custom > ubuntu-mate-20.04.1-desktop-arm64+raspi.img.xz > Write
 
 włóż karte do Rasberry Pi 4>uruchom rasberry 
 zfinalizuj instalacje 
