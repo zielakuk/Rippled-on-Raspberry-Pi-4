@@ -100,9 +100,3 @@ cmake  -Dstatic=OFF ..
 ```
 cmake --build .
 ```
-
-
-
-
-
-
