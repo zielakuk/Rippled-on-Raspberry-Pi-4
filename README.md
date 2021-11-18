@@ -31,7 +31,7 @@ Turn on the Rasberry and Follow the instruction to finalize installation.
 
 
 Open up the Terminal 
-
+==
 
 
 ```
