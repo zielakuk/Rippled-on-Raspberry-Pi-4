@@ -1,6 +1,7 @@
 
 
 Rippled on Rasberry Pi 4
+==
 
 
 
@@ -70,7 +71,7 @@ cd boost_1_75_0
 ```
 
 make sure you enter your own "user_name" ; for example: export BOOST_ROOT=/home/"FCX"/boost_1_75_0 
-
+                                              ++=====
 ```
 export BOOST_ROOT=/home/"user_name"/boost_1_75_0
 ```
