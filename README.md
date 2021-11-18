@@ -104,3 +104,10 @@ cmake  -Dstatic=OFF ..
 ```
 cmake --build .
 ```
+
+
+It will take a while , raspberry can be unstable and slow for long time. Go for a Brendy or Debowe and come back a few h later.  
+ - There may be a time when it seems that rasberry is not responding. Don't panic, just leave it running.
+
+
+
