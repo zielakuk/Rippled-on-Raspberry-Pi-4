@@ -1,7 +1,7 @@
 
 
 Rippled on Rasberry Pi 4
-##
+===
 
 
 
@@ -31,8 +31,9 @@ Now you have your Ubuntu SD card. Before going on, make sure your Pi is off and 
 Turn on the Rasberry and Follow the instruction to finalize installation.
 
 
-Open a Terminal
-###
+
+#### Open a Terminal
+
 
 
 ```
@@ -71,12 +72,14 @@ cd boost_1_75_0
 ./b2 -j 4
 ```
 
-make sure you enter your own "user_name" ; for example: export BOOST_ROOT=/home/"sev"/boost_1_75_0 
-###
+#### Make sure you enter the right "user_name" for example: "export BOOST_ROOT=/home/"sev"/boost_1_75_0" 
+
  
 ```
 export BOOST_ROOT=/home/"user_name"/boost_1_75_0
 ```
+
+
 
 ```
 source ~/.profile
