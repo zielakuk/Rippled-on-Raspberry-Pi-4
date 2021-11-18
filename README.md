@@ -23,7 +23,6 @@ Now you have your Ubuntu SD card. Before going on, make sure your Pi is off and 
 Go to home/"user_name"/  ( right mouse button > open Terminal ) 
 
 
-nowa 
 
 ```
 sudo apt-get update && sudo apt-get upgrade -y
