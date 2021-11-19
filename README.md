@@ -106,7 +106,7 @@ cmake --build .
 
 
 It will take a while.  Go for a Brendy or Debowe and come back a few h later.  
- -This may take about 10 minutes
+
 
 
  Configure rippled
