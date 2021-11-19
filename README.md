@@ -94,11 +94,10 @@ git checkout master
 ```
 mkdir my_build
 cd my_build
-cmake ..
 ```
 
 ```
-cmake  -Dstatic=OFF ..
+cmake -Dstatic=OFF -DCMAKE_BUILD_TYPE=Debug .. 
 ```
 
 ```
