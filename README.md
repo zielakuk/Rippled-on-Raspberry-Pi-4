@@ -120,14 +120,21 @@ It will take a while.  Go for a Brendy or Debowe and come back a few h later.
 mkdir -p ~/.config/ripple
 cp cfg/rippled-example.cfg ~/.config/ripple/rippled.cfg
 ```
-Set the [node_db]'s path to the location where you want to store the ledger database.
 
-Set the [database_path] to the location where you want to store other database data. (This includes an SQLite database with configuration data, and is typically one level above the [node_db] path field.)
+### make changes to the file: .config/ripple/rippled.cfg
 
-Set the [debug_logfile] to a path where rippled can write logging information
+-Set the [node_db]'s path to the location where you want to store the ledger database.
+
+-Set the [database_path] to the location where you want to store other database data. (This includes an SQLite database with configuration data, and is typically one level above the [node_db] path field.)
+
+-Set the [debug_logfile] to a path where rippled can write logging information
 
 ```
 cp cfg/validators-example.txt ~/.config/ripple/validators.txt
 ```
 
+### Run rippled
 
+```
+./rippled
+```
