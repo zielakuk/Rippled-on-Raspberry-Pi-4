@@ -72,7 +72,7 @@ cd boost_1_75_0
 ./b2 -j 4
 ```
 
-#### Make sure you enter the right "user_name" for example: "export BOOST_ROOT=/home/"sev"/boost_1_75_0" 
+#### Make sure you enter the right "user_name" for example: "export BOOST_ROOT=/home/sev/boost_1_75_0" 
 
  
 ```
