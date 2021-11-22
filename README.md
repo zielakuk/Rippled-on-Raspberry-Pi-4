@@ -47,6 +47,10 @@ sudo apt install cmake
 ```
 
 ```
+sudo apt install libprotoc-dev
+```
+
+
 sudo apt-get install libboost-all-dev
 ```
 
