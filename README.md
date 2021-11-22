@@ -36,9 +36,7 @@ Turn on the Rasberry and Follow the instruction to finalize installation.
 
 
 
-```
-sudo apt-get update && sudo apt-get upgrade -y
-```
+
 
 ```
 sudo apt-get -y install git pkg-config protobuf-compiler libprotobuf-dev libssl-dev wget build-essential
