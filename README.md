@@ -138,6 +138,10 @@ cp cfg/validators-example.txt ~/.config/ripple/validators.txt
 ### Run rippled
 
 ```
+cd my_build 
+```
+
+```
 ./rippled
 ```
 
