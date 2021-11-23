@@ -107,7 +107,7 @@ cmake --build .
 ```
 
 
-It will take a while.  Go for a Brendy or Debowe and come back a few h later.  
+It will take a while.  This may take about two hours. 
 
 
 
