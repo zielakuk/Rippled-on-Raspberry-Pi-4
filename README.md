@@ -8,7 +8,7 @@ Rippled on Raspberry Pi 4
 Download ubuntu mate image for Raspberry Pi 4: 
 
 ```
-https://releases.ubuntu-mate.org/focal/arm64/ubuntu-mate-20.04.1-desktop-arm64+raspi.img.xz
+https://releases.ubuntu-mate.org/jammy/arm64/ubuntu-mate-22.04-desktop-arm64+raspi.img.xz
 ```
 
 
